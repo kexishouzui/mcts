@@ -1,4 +1,6 @@
 .vscode/
 .vs
+.exe
+*.json
 mcts
 uctree
