@@ -2,5 +2,6 @@
 .vs
 *.exe
 *.json
+*.bin
 mcts
 uctree

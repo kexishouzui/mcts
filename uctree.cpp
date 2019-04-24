@@ -142,13 +142,13 @@ public:
   {
     cout << totValue_i << "/" << nVisits_i << endl;
   }
-}tree;
+} tree;
 
 int main()
 {
   //UCTreeNode tree;
 
-  for (int k = 0; k < 1000; ++k)
+  for (int k = 0; k < 5000; ++k)
   {
     tree.iterate();
     cout << endl;
