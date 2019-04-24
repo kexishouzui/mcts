@@ -401,7 +401,7 @@ public:
     y = y;
   }
 
-}
+};
 
 //现在已经完成了MCTS的实施。需要一个Tic-Tac-Toe特定的Board类实现。
 class Board
